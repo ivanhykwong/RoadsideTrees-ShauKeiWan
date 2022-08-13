@@ -1,8 +1,8 @@
-# Spatio-temporal patterns of urban roadside Trees in Shau Kei Wan, Hong Kong
+# Spatio-temporal patterns of urban roadside trees in Shau Kei Wan, Hong Kong
 
 Supplementary materials used in the following article (in progress):
 
-**Physical Environment, Species Choice and Spatio-Temporal Patterns of Urban Roadside Trees in Shau Kei Wan**
+**Physical Environment, Species Choice and Spatio-Temporal Patterns of Urban Roadside Trees in Hong Kong**
 
 ---
 
