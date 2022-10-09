@@ -14,13 +14,13 @@ Interactive map: https://www.google.com/maps/d/edit?mid=19IKbGsI-Em-JKxQ2TAtNMrl
 
 Files:
 
-*   TreeData_basic.csv: Basic information of the roadside trees collected during the field survey
+*   **TreeData_basic.csv**: Basic information of the roadside trees collected during the field survey
 
-*   TreeData_SEMvariable.csv: Variables computed for each tree and used in structural equation modelling (SEM)
+*   **TreeData_SEMvariable.csv**: Variables computed for each tree and used in structural equation modelling (SEM)
 
-*   RoadsideTreeProject_FigureStat.R: Analysis code used to obtain descriptive statistics presented in the article
+*   **RoadsideTreeProject_FigureStat.R**: Analysis code used to obtain descriptive statistics presented in the article
 
-*   RoadsideTreeProject_SEMcode.R: Analysis code used to obtain SEM results
+*   **RoadsideTreeProject_SEMcode.R**: Analysis code used to obtain SEM results
 
 ---
 
