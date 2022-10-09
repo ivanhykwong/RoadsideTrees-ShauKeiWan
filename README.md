@@ -2,17 +2,25 @@
 
 Supplementary materials used in the following article (in progress):
 
-**Physical Environment, Species Choice and Spatio-Temporal Patterns of Urban Roadside Trees in Hong Kong**
+**Physical environment, species choice and spatio-temporal patterns of urban roadside trees in Hong Kong**
 
 ---
 
 Data collected in Apr-May 2022
 
-*   TreeData_basic.csv: Basic inforamation of the roadside trees collected during the field survey
+Interactive map: https://www.google.com/maps/d/edit?mid=19IKbGsI-Em-JKxQ2TAtNMrl6sa_0YOKt
+
+---
+
+Files:
+
+*   TreeData_basic.csv: Basic information of the roadside trees collected during the field survey
 
 *   TreeData_SEMvariable.csv: Variables computed for each tree and used in structural equation modelling (SEM)
 
-*   RoadsideTreeProject_SEMcode.R: SEM analysis code
+*   RoadsideTreeProject_FigureStat.R: Analysis code used to obtain descriptive statistics presented in the article
+
+*   RoadsideTreeProject_SEMcode.R: Analysis code used to obtain SEM results
 
 ---
 
