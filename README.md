@@ -1,4 +1,4 @@
-# Spatio-temporal patterns of urban roadside trees in Shau Kei Wan, Hong Kong
+# Spatio-temporal patterns of urban roadside trees in Shau Kei Wan, Hong Kong (2022)
 
 Supplementary materials used in the following article (in progress):
 
