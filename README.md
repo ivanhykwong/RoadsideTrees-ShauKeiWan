@@ -8,7 +8,7 @@ Supplementary materials used in the following article (in progress):
 
 Data collected in Apr-May 2022
 
-Interactive map: https://www.google.com/maps/d/edit?mid=19IKbGsI-Em-JKxQ2TAtNMrl6sa_0YOKt
+Interactive map: https://www.google.com/maps/d/viewer?mid=19IKbGsI-Em-JKxQ2TAtNMrl6sa_0YOKt
 
 ---
 
