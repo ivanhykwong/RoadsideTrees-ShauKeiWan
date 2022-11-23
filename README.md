@@ -26,4 +26,4 @@ Files:
 
 ---
 
-![TreeSurveyResult_compressed](https://user-images.githubusercontent.com/68047356/184497997-3086de1b-17bc-480d-8469-6d601a04fbdf.jpg)
+![Figure3_TreeSurveyResult_v2](https://user-images.githubusercontent.com/68047356/203603749-ca3db3db-336f-4b3f-80dc-a2f6c392bcfe.jpg)
