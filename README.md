@@ -2,7 +2,9 @@
 
 Supplementary materials used in the following article (in progress):
 
-**Physical environment, species choice and spatio-temporal patterns of urban roadside trees in Hong Kong**
+**Kwong, I. H. Y. (2022). Physical environment, species choice and spatio-temporal patterns of urban roadside trees in Hong Kong. *Trees, Forests and People, 10*, 100358. doi: 10.1016/j.tfp.2022.100358**
+
+Link to the article: https://www.sciencedirect.com/science/article/pii/S2666719322001649
 
 ---
 
