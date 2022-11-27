@@ -6,6 +6,8 @@ Supplementary materials used in the following article:
 
 Link to the article: https://www.sciencedirect.com/science/article/pii/S2666719322001649
 
+**Kwong, I. H. Y., Wong, F. K. K., & Fung, T. (In progress). Digital aerial photogrammetry can enhance monitoring efficiency of urban forest changes in Hong Kong.**
+
 ---
 
 Tree data collected in Apr-May 2022
