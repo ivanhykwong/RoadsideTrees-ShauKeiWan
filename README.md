@@ -20,6 +20,10 @@ Files:
 
 *   **TreeData_SEMvariable.csv**: Variables computed for each tree and used in structural equation modelling (SEM)
 
+*   **DAP_AerialPhotoList_2010-2021.csv**: List of digital aerial photos used to create the digital aerial photogrammetry (DAP) dataset
+
+*   **TreeHeight_DAP_LiDAR_2010-2021.csv**: Tree heights in 2010-2021 estimated from DAP and airborne LiDAR datasets
+
 *   **RoadsideTreeProject_FigureStat.R**: Analysis code used to obtain descriptive statistics presented in the article
 
 *   **RoadsideTreeProject_SEMcode.R**: Analysis code used to obtain SEM results
