@@ -8,7 +8,7 @@ Link to the article: https://www.sciencedirect.com/science/article/pii/S26667193
 
 ---
 
-Data collected in Apr-May 2022
+Tree data collected in Apr-May 2022
 
 Interactive map: https://www.google.com/maps/d/viewer?mid=19IKbGsI-Em-JKxQ2TAtNMrl6sa_0YOKt
 
@@ -27,3 +27,5 @@ Files:
 ---
 
 ![1-s2 0-S2666719322001649-gr3_lrg](https://user-images.githubusercontent.com/68047356/203604551-8ab2aa3f-1d34-4046-a015-051f9f802c3b.jpg)
+
+*Last updated in November 2022*
