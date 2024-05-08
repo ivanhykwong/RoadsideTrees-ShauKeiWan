@@ -9,6 +9,8 @@ Link to the article: https://www.sciencedirect.com/science/article/pii/S26667193
 **Kwong, I. H. Y., Wong, F. K. K., & Fung, T. (2023). *Digital aerial photogrammetry can enhance monitoring efficiency of urban forest changes in Hong Kong*. IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 1557-1560), Pasadena, CA, USA, 16-21 July 2023. doi: 10.1109/IGARSS52108.2023.10282600**
 
 Link to the article: https://ieeexplore.ieee.org/document/10282600/
+Conference presentation slides: [IvanKwong_IGARSS2023_Presentation_July2023.pdf](https://github.com/ivanhykwong/RoadsideTrees-ShauKeiWan/files/15251277/IvanKwong_IGARSS2023_Presentation_July2023.pdf)
+
 
 ---
 
